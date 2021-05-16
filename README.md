@@ -1,7 +1,5 @@
 ### Hi there, here what I'm working on! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Opengl Game Engine
 - 🌱 I’m currently learning Angular and Typescript
 - 👯 I’m looking to collaborate on Vue Js

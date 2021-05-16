@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ASP.NET and Vue.js
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...[My email](nurakmajalil@gmail.com) & [My website](https://nurakmaljalil.com) 
+- 📫 How to reach me: ...[nurakmajalil@gmail.com](nurakmajalil@gmail.com) & [My website](https://nurakmaljalil.com) 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I like Pokemon
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nur Akmal Jalil</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A passionate game developer from Malaysia</h3>
 
 
 - 🔭 I’m currently working on [Opengl Game Engine in C++](https://github.com/nurakmaljalil91/cbit-game-framework)
